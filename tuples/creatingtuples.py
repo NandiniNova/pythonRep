@@ -1,0 +1,6 @@
+t = (1,2,3,4,5,6,7)
+print(t)
+t1 = ("hello",'world',44,33.44)
+print(t1)
+print(len(t))
+print(len(t1))

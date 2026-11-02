@@ -1,0 +1,6 @@
+t3 = (7,8,9,5,6,4)
+print(t3[0])
+print(t3[3])
+print(t3[-1])
+print(t3[0:])
+print(t3[0:4])
